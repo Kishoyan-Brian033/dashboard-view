@@ -27,4 +27,4 @@ This project is a simple dashboard sidebar layout built with HTML and CSS. It fe
 - The project uses simple CSS transitions for smooth UI effects.
 
 ## Credits
-Created by the project author.
+Created by the brianmwangi.
